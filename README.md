@@ -3,6 +3,6 @@ This repository is compiled work result from 3 years i learn in IDN Boarding Sch
 
 ---
 
->> *Prays to Allah, then special thank to all of our teacher that has teach us from zero knowladge of programming until we can make some creations 👍🏻*  
+> *Prays to Allah, then special thank to all of our teacher that has teach us from zero knowladge of programming until we can make some creations 👍🏻*  
 
 **This under GPLv3 License you can ask premission for me to granted more access**
